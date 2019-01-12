@@ -1,0 +1,8 @@
+
+.vscode/
+*.pyc
+*.sqlite3
+migrations/
+node_modules/
+*.lock
+.DS_Store
